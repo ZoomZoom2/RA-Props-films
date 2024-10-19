@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RA-Props-films/static/css/main.837b7433.css",
+    "main.js": "/RA-Props-films/static/js/main.d441d760.js",
+    "static/media/Montserrat-Regular.woff2": "/RA-Props-films/static/media/Montserrat-Regular.4d9eac545dbd8e6e6e7d.woff2",
+    "static/media/Montserrat-Regular.woff": "/RA-Props-films/static/media/Montserrat-Regular.2f9bb87d767918726ee3.woff",
+    "index.html": "/RA-Props-films/index.html",
+    "main.837b7433.css.map": "/RA-Props-films/static/css/main.837b7433.css.map",
+    "main.d441d760.js.map": "/RA-Props-films/static/js/main.d441d760.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.837b7433.css",
+    "static/js/main.d441d760.js"
+  ]
+}
