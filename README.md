@@ -1,6 +1,10 @@
-Рейтинг фильмов
+# Домашнее задание к лекции «Props и Typescript»
 
 [![Build status](https://ci.appveyor.com/api/projects/status/g579ocfgrjo59xto?svg=true)](https://ci.appveyor.com/project/ZoomZoom2/ra-props-films) [[GithubPages](https://zoomzoom2.github.io/RA-Props-films)]
+
+---
+
+Рейтинг фильмов
 
 ===
 
